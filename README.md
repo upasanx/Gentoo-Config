@@ -1,0 +1,2 @@
+# Gentoo-Config
+Mis configuraciones de mi sistema Gentoo
